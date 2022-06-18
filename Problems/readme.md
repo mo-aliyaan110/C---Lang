@@ -1,0 +1,1 @@
+In the age.c we have seen the if else and the ternery operator both...!!!
